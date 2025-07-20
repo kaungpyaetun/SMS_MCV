@@ -1,0 +1,12 @@
+<web-app>
+    <servlet>
+        <servlet-name>StdServlet</servlet-name>
+        <servlet-class>controller.StdServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>StdServlet</servlet-name>
+        <url-pattern>/student</url-pattern>
+        <url-pattern>/list</url-pattern>
+    </servlet-mapping>
+</web-app>
