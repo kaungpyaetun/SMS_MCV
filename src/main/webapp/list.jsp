@@ -18,7 +18,7 @@
         </tr>
         <% } %>
     </table>
-    <br><a href="add.jsp">Add Student</a>
-    <br><a href="delete.jsp">Delete Student</a>    
+  <br><a href="add.jsp">Add Student</a>-----------SMS_Update
+  --  <br><a href="delete.jsp">Delete Student</a>-------Main
 </body>
 </html>
