@@ -7,7 +7,7 @@
         <input type="hidden" name="action" value="delete">
         
         Id: <input type="text" name="sid"><br><br>
-      Name: <input type="text" name="dname"><br><br>
+   <!-- Name: <input type="text" name="name"><br><br>-->
         <input type="submit" value="Delete">
     </form>   
     <br>
